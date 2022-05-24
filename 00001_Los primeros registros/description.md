@@ -15,22 +15,4 @@ Ahí es cuando se dio cuenta que no era conveniente :unamused:: si bien la infor
 
 > Luego de investigar un poco, encontró una mejor manera para guardar la información de los monumentos. Probá en la consola copian y pegando:
 >
->``` javascript
-ム estatuaDeLaLibertad
-```
->
->``` javascript
-ム cristoRedentor
-```
->
->``` javascript
-ム torreEiffel
-```
->
->``` javascript
-ム tajMahal
-```
->
->``` javascript
-ム coliseo
-```
+
