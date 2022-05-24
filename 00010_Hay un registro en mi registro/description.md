@@ -13,7 +13,3 @@ let menuDelDia = {
 ```
 
 > Averiguá los `ingredientes` del `postre` del `menuInfantil`. Es un registro dentro de otro, así que vamos a tener que acceder primero al campo `postre` y luego a su campo `ingredientes`. Si no se te ocurre como podés mirar la pista. :mag: 
-
-> ```javascript
-menuInfantil.postre.ingredientes
-```

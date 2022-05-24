@@ -13,12 +13,24 @@ let anioDeConstruccionCristoRedentor = "1931";
 
 Ahí es cuando se dio cuenta que no era conveniente :unamused:: si bien la información entre las variables estaba relacionada, la estaba almacenando por separado. Entonces pensó: ¿no existirá alguna forma de representar las distintas características o propiedades de una misma cosa de forma agrupada? 
 
-> Luego de investigar un poco, encontró una mejor manera para guardar la información de los monumentos. Probá en la consola escribiendo:
-
-> ```javascript
-estatuaDeLaLibertad
-cristoRedentor
-torreEiffel
-tajMahal
-coliseo
+> Luego de investigar un poco, encontró una mejor manera para guardar la información de los monumentos. Probá en la consola copian y pegando:
+>
+>``` javascript
+ム estatuaDeLaLibertad
+```
+>
+>``` javascript
+ム cristoRedentor
+```
+>
+>``` javascript
+ム torreEiffel
+```
+>
+>``` javascript
+ム tajMahal
+```
+>
+>``` javascript
+ム coliseo
 ```
